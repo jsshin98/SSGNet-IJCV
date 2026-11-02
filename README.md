@@ -85,3 +85,7 @@ The conference version of this work:
   year      = {2023}
 }
 ```
+
+## License
+
+This project is released under the [MIT License](LICENSE).
