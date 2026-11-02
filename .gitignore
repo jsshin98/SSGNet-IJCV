@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+data/
+ckpt/
+logs/
+result/
+runs/
+*.tar
+*.pth
+*.mat
+*.log
+events.out.tfevents.*
